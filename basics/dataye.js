@@ -29,7 +29,7 @@ let obj=
     age: 42,
 }
 
-conat myFunction function(){
+const myFunction =function(){
     console.log("hello");
     
 }
