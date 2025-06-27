@@ -33,3 +33,12 @@ const myFunction =function(){
     console.log("hello");
     
 }
+
+
+
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// stack(premitive),heap(non-premitive)
+
